@@ -1,12 +1,11 @@
 # Organic Veggies, Fruits, and Foods E-Commerce Website
 ![WhatsApp Image 2024-10-14 at 23 56 20 (1)](https://github.com/user-attachments/assets/724c2f21-a20a-4105-b715-600bbd6a13d9)
 ![WhatsApp Image 2024-10-14 at 23 56 17](https://github.com/user-attachments/assets/17593adf-a678-4f27-aa12-5d0462808b43)
-![WhatsApp Image 2024-10-14 at 23 56 18](https://github.com/user-attachments/assets/f77867bf-096d-4674-9a83-b4bd0b5f0cd4)
 ![WhatsApp Image 2024-10-14 at 23 56 19 (1)](https://github.com/user-attachments/assets/7f44de74-4056-46af-9b41-223fac81a8e0)
 ![WhatsApp Image 2024-10-14 at 23 56 19](https://github.com/user-attachments/assets/dc32d683-fe6d-4120-9aa6-807522b2cdc3)
 ![WhatsApp Image 2024-10-14 at 23 56 18 (1)](https://github.com/user-attachments/assets/3722bf04-0ca4-4732-8f18-2c72271cd8e5)
-![WhatsApp Image 2024-10-14 at 23 56 18](https://github.com/user-attachments/assets/0f4349d3-6b50-4567-9141-2768949c70c9)
 ![WhatsApp Image 2024-10-14 at 23 56 20](https://github.com/user-attachments/assets/fab6d26d-d31a-4e36-8a85-853db95be0f3)
+![WhatsApp Image 2024-10-14 at 23 56 18](https://github.com/user-attachments/assets/f77867bf-096d-4674-9a83-b4bd0b5f0cd4)
 
 Welcome to our **Organic Veggies, Fruits, and Foods E-Commerce Website**! This platform connects consumers with local farmers and producers, offering a wide selection of high-quality, certified organic products. Our mission is to promote sustainability while providing fresh, natural, and healthy food options.
 
